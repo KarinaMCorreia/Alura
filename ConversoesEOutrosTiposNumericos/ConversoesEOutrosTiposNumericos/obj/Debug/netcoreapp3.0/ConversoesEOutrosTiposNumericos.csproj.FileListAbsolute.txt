@@ -1,0 +1,11 @@
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.exe
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.deps.json
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.dll
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\bin\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.dll
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\karina\source\repos\ConversoesEOutrosTiposNumericos\ConversoesEOutrosTiposNumericos\obj\Debug\netcoreapp3.0\ConversoesEOutrosTiposNumericos.csprojAssemblyReference.cache

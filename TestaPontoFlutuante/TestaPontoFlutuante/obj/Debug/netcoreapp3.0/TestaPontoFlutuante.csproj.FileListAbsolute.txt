@@ -1,0 +1,10 @@
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\netcoreapp3.0\TestaPontoFlutuante.exe
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\netcoreapp3.0\TestaPontoFlutuante.deps.json
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\netcoreapp3.0\TestaPontoFlutuante.runtimeconfig.json
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\netcoreapp3.0\TestaPontoFlutuante.runtimeconfig.dev.json
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\netcoreapp3.0\TestaPontoFlutuante.dll
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\netcoreapp3.0\TestaPontoFlutuante.pdb
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\netcoreapp3.0\TestaPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\netcoreapp3.0\TestaPontoFlutuante.AssemblyInfo.cs
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\netcoreapp3.0\TestaPontoFlutuante.dll
+C:\Users\karina\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\netcoreapp3.0\TestaPontoFlutuante.pdb

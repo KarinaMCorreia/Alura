@@ -1,0 +1,11 @@
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.0\1-PrimeiroProjeto.exe
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.0\1-PrimeiroProjeto.deps.json
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.0\1-PrimeiroProjeto.runtimeconfig.json
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.0\1-PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.0\1-PrimeiroProjeto.dll
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\bin\Debug\netcoreapp3.0\1-PrimeiroProjeto.pdb
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.0\1-PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.0\1-PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.0\1-PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.0\1-PrimeiroProjeto.dll
+C:\Users\karina\source\repos\AprendendoCSharp\AprendendoCSharp\obj\Debug\netcoreapp3.0\1-PrimeiroProjeto.pdb

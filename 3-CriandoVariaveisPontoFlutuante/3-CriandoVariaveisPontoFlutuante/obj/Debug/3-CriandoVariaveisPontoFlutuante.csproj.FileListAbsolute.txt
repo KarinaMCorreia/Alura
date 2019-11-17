@@ -1,0 +1,6 @@
+C:\Users\karina\source\repos\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\karina\source\repos\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\karina\source\repos\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\karina\source\repos\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\karina\source\repos\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\karina\source\repos\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb
