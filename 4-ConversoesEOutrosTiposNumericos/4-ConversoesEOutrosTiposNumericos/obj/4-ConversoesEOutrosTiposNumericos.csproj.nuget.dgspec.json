@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karina\\source\\repos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {}
+    "C:\\Users\\karina\\Source\\Repos\\Alura\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karina\\source\\repos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {
+    "C:\\Users\\karina\\Source\\Repos\\Alura\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karina\\source\\repos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
+        "projectUniqueName": "C:\\Users\\karina\\Source\\Repos\\Alura\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
         "projectName": "4-ConversoesEOutrosTiposNumericos",
-        "projectPath": "C:\\Users\\karina\\source\\repos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
+        "projectPath": "C:\\Users\\karina\\Source\\Repos\\Alura\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos.csproj",
         "packagesPath": "C:\\Users\\karina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karina\\source\\repos\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\obj\\",
+        "outputPath": "C:\\Users\\karina\\Source\\Repos\\Alura\\4-ConversoesEOutrosTiposNumericos\\4-ConversoesEOutrosTiposNumericos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karina\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karina\\source\\repos\\2-CriandoVariaveis\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectUniqueName": "C:\\Users\\karina\\Source\\Repos\\Alura\\2-CriandoVariaveis\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "projectName": "2-CriandoVariaveis",
-      "projectPath": "C:\\Users\\karina\\source\\repos\\2-CriandoVariaveis\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectPath": "C:\\Users\\karina\\Source\\Repos\\Alura\\2-CriandoVariaveis\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "packagesPath": "C:\\Users\\karina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karina\\source\\repos\\2-CriandoVariaveis\\2-CriandoVariaveis\\obj\\",
+      "outputPath": "C:\\Users\\karina\\Source\\Repos\\Alura\\2-CriandoVariaveis\\2-CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karina\\AppData\\Roaming\\NuGet\\NuGet.Config",
