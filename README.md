@@ -3,7 +3,7 @@
 
 Aulas
 
-- História e ecossistema da linguagem Ver primeiro vídeo
+- História e ecossistema da linguagem 
 - Nosso primeiro programa e o Visual Studio
 - Variáveis numéricas
 - Variáveis de texto
