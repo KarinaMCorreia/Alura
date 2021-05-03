@@ -1,5 +1,5 @@
 # Alura
-😍 C# parte 1: Primeiros passos  
+C# parte 1: Primeiros passos  
 
 Aulas
 
